@@ -1,0 +1,17 @@
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\bin\Debug\net8.0\EmployeeConsoleApp.exe
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\bin\Debug\net8.0\EmployeeConsoleApp.deps.json
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\bin\Debug\net8.0\EmployeeConsoleApp.runtimeconfig.json
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\bin\Debug\net8.0\EmployeeConsoleApp.dll
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\bin\Debug\net8.0\EmployeeConsoleApp.pdb
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\net8.0\EmployeeConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\net8.0\EmployeeConsoleApp.AssemblyInfoInputs.cache
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\net8.0\EmployeeConsoleApp.AssemblyInfo.cs
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\net8.0\EmployeeConsoleApp.csproj.CoreCompileInputs.cache
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\net8.0\EmployeeConsoleApp.dll
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\net8.0\refint\EmployeeConsoleApp.dll
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\net8.0\EmployeeConsoleApp.pdb
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\net8.0\EmployeeConsoleApp.genruntimeconfig.cache
+D:\Coding\Aztu-Codeacademy\EmployeeConsoleApp\EmployeeConsoleApp\obj\Debug\net8.0\ref\EmployeeConsoleApp.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\ConsoleApp5\EmployeeConsoleApp\obj\Debug\net8.0\EmployeeConsoleApp.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\ConsoleApp5\EmployeeConsoleApp\obj\Debug\net8.0\refint\EmployeeConsoleApp.dll
+C:\Users\Acer\OneDrive\İş masası\Back-end\ConsoleApp5\EmployeeConsoleApp\obj\Debug\net8.0\EmployeeConsoleApp.pdb
